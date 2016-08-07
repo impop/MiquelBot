@@ -8,6 +8,7 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "botframework", "botframework", "{B2534ECD-FD00-4554-9229-DFAB65D12AAB}"
 	ProjectSection(SolutionItems) = preProject
 		botframework\Bot Application.zip = botframework\Bot Application.zip
+		botframework\BotEmulatorGUI.zip = botframework\BotEmulatorGUI.zip
 		botframework\BotFrameworkEmulator-Console.zip = botframework\BotFrameworkEmulator-Console.zip
 	EndProjectSection
 EndProject
